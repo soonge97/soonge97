@@ -7,9 +7,9 @@
 - 📌 [Portfolio](https://foamy-storm-76e.notion.site/149b833997bf8102bbc1c4b3c34f08bc?pvs=4)  <!-- 단축된 링크 -->
 
 # 📁 Project
-- [🔗 3차 Project Notion](https://link_to_3rd_project)
-- [🔗 2차 Project Notion](https://link_to_2nd_project)
-- [🔗 1차 Project Notion](https://link_to_1st_project)
+- [🔗 3차 Project - Terraform 활용한 하이브리드 클라우드 3-Tier 웹 서비스 구축](https://foamy-storm-76e.notion.site/Terraform-3-Tier-149b833997bf819dadcde2cdbf5b0d13?pvs=4)
+- [🔗 2차 Project - AWS EKS를 활용한 3-Tier 웹 서비스 구축](https://foamy-storm-76e.notion.site/AWS-EKS-3-Tier-149b833997bf81f8b505dcd2bb9a8f13?pvs=4)
+- [🔗 1차 Project - Kubernetes를 활용한 3-Tier 웹 서비스 구축](https://foamy-storm-76e.notion.site/Kubernetes-3-Tier-149b833997bf818290b4f1ba1a628da1?pvs=4)
 
   
 # ✨ Stack
